@@ -122,3 +122,12 @@ footer .info a {
     align-items: center;
 
 }
+
+
+
+/*Responsive CSS for Tablet*/
+
+@media(max-width:500px) {
+    
+
+}
